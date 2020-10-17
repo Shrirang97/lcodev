@@ -4,11 +4,7 @@ __pycache__/
 *$py.class
 
 # IDE Stuff
-.vscode/*
-!.vscode/settings.json
-!.vscode/tasks.json
-!.vscode/launch.json
-!.vscode/extensions.json
+.vscode/
 
 # C extensions
 *.so
