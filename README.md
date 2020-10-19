@@ -23,3 +23,4 @@ Django + React Full Application
 17. Enter command **py manage.py runserver**
 18. Open browser and enter URL **http://127.0.0.1:8000/admin**. Login using your credentials. Terminate.
 19. Enter command **pipenv install django-cors-headers**.
+20. Enter command \*\*\*\*.
